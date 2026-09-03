@@ -1,0 +1,60 @@
+about:
+  description: Kubernetes Cluster Federation
+  license: Apache-2.0
+  homepage: 
+  head: d6f10d2
+  archived: true
+  latestVersion: v0.10.0
+  collectedAt: 2026-09-03T05:03:09Z
+timeline:
+  created: 2018-01-09
+  lastCommit: 2023-03-23
+  lastRelease: 2022-08-10
+popularity:
+  star: 2477
+  watcher: 0
+  fork: 531
+  release: 34
+  contributor: 99
+  pullRequest: 157
+  issue: 558
+language:
+  Go: 958013
+  Shell: 59724
+  Makefile: 5615
+  Mustache: 2120
+  Dockerfile: 949
+totalLine: 1026421
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
