@@ -7,7 +7,7 @@ about:
   head: d6f10d2
   archived: true
   latestVersion: v0.10.0
-  collectedAt: 2026-09-04T19:59:29Z
+  collectedAt: 2026-09-04T20:39:57Z
 timeline:
   created: 2018-01-09
   lastCommit: 2023-03-23
@@ -84,5 +84,68 @@ total:
   openIssue: 0
   commit: 2747
 ---
+path: /home/runner/.x-repo/github.com/kubernetes-retired/kubefed
+collectedAt: 2026-09-04T20:40:02Z
+loc:
+  Go:
+    code: 22705
+    comments: 5069
+    blanks: 4024
+    files: 188
+  Yaml:
+    code: 5369
+    comments: 68
+    blanks: 21
+    files: 56
+  Sh:
+    code: 1254
+    comments: 706
+    blanks: 384
+    files: 35
+  Python:
+    code: 262
+    comments: 102
+    blanks: 85
+    files: 5
+  Makefile:
+    code: 109
+    comments: 19
+    blanks: 33
+    files: 1
+  ReStructuredText:
+    code: 66
+    comments: 0
+    blanks: 24
+    files: 1
+  Pan:
+    code: 60
+    comments: 0
+    blanks: 4
+    files: 2
+  Dockerfile:
+    code: 12
+    comments: 13
+    blanks: 6
+    files: 1
+  Bitbake:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2457
+    blanks: 793
+    files: 24
+  Text:
+    code: 0
+    comments: 90
+    blanks: 13
+    files: 8
+total:
+  code: 30582
+  comments: 8567
+  blanks: 5408
+  files: 322
 ---
 
