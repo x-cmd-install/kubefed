@@ -24,7 +24,17 @@ x install kubefed
 - **Latest**: `v0.10.0` (2022-05-18)
 - **Last commit**: 2023-03-23
 - **Assets in release**: 6
-- **Published**: 2022-05-18T12:32:01Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kubefed-0.9.2.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz) | 23.5 KiB | `native/unknown` |
+| [kubefed-0.9.2.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz.sha) | 84 B | `other` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz) | 18.8 MiB | `native/darwin/x64` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz.sha) | 100 B | `native/darwin/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz) | 18.9 MiB | `native/linux/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz.sha) | 99 B | `native/linux/x64` |
 
 ## Popularity
 
@@ -59,8 +69,8 @@ Total: **29,838** lines of code across **285** files in the top 5 languages.
 Install metadata for kubefed lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubefed` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kubefed.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kubefed.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:03:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:36Z._

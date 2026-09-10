@@ -6,7 +6,7 @@
 
 Kubernetes Cluster Federation
 
-![kubefed](https://repo.x-cmd.io/kubefed.svg)
+![kubefed](https://repo.x-cmd.io/kubefed.svg?lang=zh)
 
 ## 安装
 
@@ -24,7 +24,17 @@ x install kubefed
 - **最新版本**: `v0.10.0` (2022-05-18)
 - **最近提交**: 2023-03-23
 - **Release 含资产**: 6 个
-- **发布时间**: 2022-05-18T12:32:01Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [kubefed-0.9.2.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz) | 23.5 KiB | `native/unknown` |
+| [kubefed-0.9.2.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz.sha) | 84 B | `other` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz) | 18.8 MiB | `native/darwin/x64` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz.sha) | 100 B | `native/darwin/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz) | 18.9 MiB | `native/linux/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz.sha) | 99 B | `native/linux/x64` |
 
 ## 流行度
 
@@ -63,4 +73,4 @@ kubefed 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:03:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:54:36Z._
