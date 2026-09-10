@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2022-05-18T09:41:53Z",
       "updated_at": "2022-05-18T09:41:53Z",
       "browser_download_url": "https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz.sha"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": null,
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2022-05-18T09:41:52Z",
       "updated_at": "2022-05-18T09:41:52Z",
       "browser_download_url": "https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz.sha"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 19793956,
       "digest": null,
-      "download_count": 3110,
+      "download_count": 3111,
       "created_at": "2022-05-18T09:41:52Z",
       "updated_at": "2022-05-18T09:42:01Z",
       "browser_download_url": "https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": null,
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2022-05-18T09:41:52Z",
       "updated_at": "2022-05-18T09:41:52Z",
       "browser_download_url": "https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz.sha"
