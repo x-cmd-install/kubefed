@@ -14,6 +14,18 @@ Kubernetes Cluster Federation
 x install kubefed
 ```
 
+## Code insight
+
+Total: **29,838** lines of code across **285** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 22,705 | 5,069 | 4,024 | 188 |
+| Yaml | 5,369 | 68 | 21 | 56 |
+| Sh | 1,254 | 706 | 384 | 35 |
+| Python | 262 | 102 | 85 | 5 |
+| Makefile | 109 | 19 | 33 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/kubernetes-retired/kubefed>
@@ -24,17 +36,6 @@ x install kubefed
 - **Latest**: `v0.10.0` (2022-05-18)
 - **Last commit**: 2023-03-23
 - **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [kubefed-0.9.2.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz) | 23.5 KiB | `native/unknown` |
-| [kubefed-0.9.2.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz.sha) | 84 B | `other` |
-| [kubefedctl-0.9.2-darwin-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz) | 18.8 MiB | `native/darwin/x64` |
-| [kubefedctl-0.9.2-darwin-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz.sha) | 100 B | `native/darwin/x64` |
-| [kubefedctl-0.9.2-linux-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz) | 18.9 MiB | `native/linux/x64` |
-| [kubefedctl-0.9.2-linux-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz.sha) | 99 B | `native/linux/x64` |
 
 ## Popularity
 
@@ -48,21 +49,23 @@ x install kubefed
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-## Code size
+## Release assets
 
-Total: **29,838** lines of code across **285** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 22,705 | 5,069 | 4,024 | 188 |
-| Yaml | 5,369 | 68 | 21 | 56 |
-| Sh | 1,254 | 706 | 384 | 35 |
-| Python | 262 | 102 | 85 | 5 |
-| Makefile | 109 | 19 | 33 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [kubefed-0.9.2.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz) | 23.5 KiB | `native/unknown` |
+| [kubefed-0.9.2.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefed-0.9.2.tgz.sha) | 84 B | `other` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz) | 18.8 MiB | `native/darwin/x64` |
+| [kubefedctl-0.9.2-darwin-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-darwin-amd64.tgz.sha) | 100 B | `native/darwin/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz) | 18.9 MiB | `native/linux/x64` |
+| [kubefedctl-0.9.2-linux-amd64.tgz.sha](https://github.com/kubernetes-retired/kubefed/releases/download/v0.9.2/kubefedctl-0.9.2-linux-amd64.tgz.sha) | 99 B | `native/linux/x64` |
 
 ## Improve this data
 
@@ -73,4 +76,4 @@ Install metadata for kubefed lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:36Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:23:57Z._
